@@ -1,0 +1,46 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 2px solid #200544;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+
+}
+
+#nav-list {
+  margin-top: 10px;
+  background-color: #763568;
+}
+#nav-list a {
+  color: #fff;
+  text-align: center;
+  font-size: 1.5em;
+}
+#nav-list a:hover {
+  background: #8E44AD;
+}
+
+#food {
+    color: purple;
+    font-size: 1.8em;
+    margin: 15px 10px 10px 10px ;
+}
+
+#background1{
+  background-color: #200544;
+  margin-left: 5px;
+  margin-bottom: 50px;
+  padding: 10px 5px 5px 10px;
+}
